@@ -1,0 +1,19 @@
+.btn-primary {
+    padding: 16px 36px;
+    border-radius: 50px;
+    opacity: 0.4;
+    width: 100px;
+    margin: 0 auto;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-primary:hover {
+    opacity: 0.3;
+}
+
+.btn-primary .banner {
+    text-align: center;
+}
